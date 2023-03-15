@@ -8,6 +8,7 @@
 </head>
 <body>
     <h1>Listado de personas</h1>
+    <a href="nuevaPersona">Agregar</a>
     <table border="1">
         <thead>
             <tr>
@@ -26,7 +27,7 @@
                     <td>{{persona.nombre}}{{persona.apellido}}</td>
                     <td>{{persona.email}}</td>
                     <td></td>
-                    <td></td>
+                    <td><a href="editarPersona/{{persona.id}}">Editar</a></td>
                     <td></td>
                 </tr>
             {% endfor %}
