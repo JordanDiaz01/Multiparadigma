@@ -1,0 +1,33 @@
+Django utiliza el modelo MVT (modelo vista template)
+
+comando para crear proyecto
+django-admin startproject webproject
+
+manage.py nos ayuda a manejar los camndos que vamos tecleando
+
+archivos asgi y wsgi son para deploy
+
+settings configuramos las aplicaciones que vamos a ir manejando
+
+
+comando para crear vistas
+python manage.py startapp webapp
+
+
+para mandar a llamar un html, hay que configurar el archivo urls
+hay que agregar el proyecto a settins
+
+para correr el proyecto
+python manage.py runserver
+
+preparar migraciones
+python manage.py makemigrations
+
+hacer las migraciones
+python manage.py migrate
+
+ver las migraciones 
+python manage.py showmigrations
+
+crear superusuario
+python manage.py createsuperuser
