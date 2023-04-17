@@ -1,0 +1,13 @@
+{% extends "layout.html" %}
+{% block body %}
+
+    <form action="" method="POST">
+        <h1>Agregar patrocinador</h1>
+        <table>
+            {{formaPatrocinador}}
+        </table>
+        <button type="submit">Enviar</button>
+        {% csrf_token %}
+    </form> 
+    
+{%endblock%}

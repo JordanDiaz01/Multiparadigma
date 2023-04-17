@@ -1,0 +1,406 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+DEBUG:app:listado de personas: [<Menu 4>, <Menu 5>, <Menu 12>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:58:20] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:58:20] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:58:20] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado de personas: [<Menu 4>, <Menu 5>, <Menu 12>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:59:30] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:59:30] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:59:30] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:59:58] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:59:59] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 21:59:59] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:00:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:00:21] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:00:21] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:00:22] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:00:22] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:00:22] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:28] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:28] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:28] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:28] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:28] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:46] "[35m[1mGET / HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:46] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:46] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:02:46] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Personal\\Programacion\\Multiparadigma\\Practica u2 FLask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:08] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:08] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:11] "GET /agregarMenu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:11] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:11] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato agregado: <Menu 13>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:15] "[32mPOST /agregarMenu HTTP/1.1[0m" 302 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:15] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:15] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:04:15] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Personal\\Programacion\\Multiparadigma\\Practica u2 FLask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:03] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:04] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:04] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:07] "GET /editarMenu/4 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:07] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:07] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:09] "[35m[1mPOST /editarMenu/4 HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:09] "GET /editarMenu/4?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:09] "GET /editarMenu/4?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:09] "GET /editarMenu/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:09] "[36mGET /editarMenu/4?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:33] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:33] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:33] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:34] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:34] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:34] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:14:34] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Personal\\Programacion\\Multiparadigma\\Practica u2 FLask\\app.py', reloading
+INFO:werkzeug: * Restarting with stat
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+ERROR:app:error al agregar: <Menu (transient 3032372049872)>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:15:21] "[35m[1mPOST /menuhttp/agregar HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:15:22] "GET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:15:22] "GET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:15:22] "GET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:31:12] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:31:12] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:31:12] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:31:46] "GET /agregarMenu HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:31:46] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:31:46] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato agregado: <Menu 14>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:18] "[32mPOST /agregarMenu HTTP/1.1[0m" 302 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:18] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:18] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:18] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:34] "GET /editarMenu/14 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:34] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:34] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Actualizado: <Menu 14>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:53] "[32mPOST /editarMenu/14 HTTP/1.1[0m" 302 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 12>, <Menu 13>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:53] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:53] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:32:53] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato eliminado: <Menu 12>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:11] "[32mGET /eliminarMenu/12 HTTP/1.1[0m" 302 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 13>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:11] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:11] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:11] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato eliminado: <Menu 13>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:12] "[32mGET /eliminarMenu/13 HTTP/1.1[0m" 302 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:12] "GET /index HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:12] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:12] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado de empleados: [<Empleado 8>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:20] "GET /empleados HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:20] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:33:20] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:10] "GET /empleados/agregarEmpleado HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:11] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:11] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato agregado: <Empleado 9>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:23] "[32mPOST /empleados/agregarEmpleado HTTP/1.1[0m" 302 -
+DEBUG:app:listado de empleados: [<Empleado 8>, <Empleado 9>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:23] "GET /empleados HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:23] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:23] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:35] "GET /empleados/editarEmpleado/8 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:35] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:35] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato editado: <Empleado 8>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:49] "[32mPOST /empleados/editarEmpleado/8 HTTP/1.1[0m" 302 -
+DEBUG:app:listado de empleados: [<Empleado 9>, <Empleado 8>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:49] "GET /empleados HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:49] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:34:49] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato eliminado: <Empleado 9>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:04] "[32mGET /empleados/eliminarEmpleado/9 HTTP/1.1[0m" 302 -
+DEBUG:app:listado de empleados: [<Empleado 8>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:04] "GET /empleados HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:04] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:04] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado de pedidos: [<Pedido 1>, <Pedido 4>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:21] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:21] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:21] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato eliminado: <Pedido 4>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:33] "[32mGET /pedidos/eliminarPedidos/4 HTTP/1.1[0m" 302 -
+DEBUG:app:listado de pedidos: [<Pedido 1>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:33] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:33] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:33] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:45] "GET /pedidos/agregarPedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:45] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:35:45] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato agregado: <Pedido 5>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:09] "[32mPOST /pedidos/agregarPedidos HTTP/1.1[0m" 302 -
+DEBUG:app:listado de pedidos: [<Pedido 1>, <Pedido 5>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:09] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:09] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:09] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:18] "GET /pedidos/editarPedidos/1 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:19] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:19] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato editado: <Pedido 1>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:48] "[32mPOST /pedidos/editarPedidos/1 HTTP/1.1[0m" 302 -
+DEBUG:app:listado de pedidos: [<Pedido 5>, <Pedido 1>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:48] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:48] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:36:48] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato eliminado: <Pedido 1>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:04] "[32mGET /pedidos/eliminarPedidos/1 HTTP/1.1[0m" 302 -
+DEBUG:app:listado de pedidos: [<Pedido 5>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:04] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:04] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:04] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:55] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:37:55] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:01] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:01] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:01] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:18] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:19] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:19] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:36] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:37] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:37] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:58] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:58] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:39:59] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:03] "GET /menuhttp/obtener HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:11] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:11] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:11] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:16] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:16] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:16] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:20] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:21] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:42:21] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:43:37] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:43:37] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:43:37] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:07] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:07] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:08] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:27] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:27] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:28] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:44:34] "GET /menuhttp/obtener HTTP/1.1" 200 -
+DEBUG:app:Menu agregado: <Menu 15>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:24] "POST /menuhttp/agregar HTTP/1.1" 200 -
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:34] "GET /menuhttp/obtener HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:48] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:48] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:48] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:54] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:55] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:45:55] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu agregado: <Menu 16>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:46:05] "POST /menuhttp/agregar HTTP/1.1" 200 -
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 4>, <Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:46:17] "GET /menuhttp/obtener HTTP/1.1" 200 -
+DEBUG:app:Menu editado: <Menu 4>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:46:29] "POST /menuhttp/editar HTTP/1.1" 200 -
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>, <Menu 4>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>, <Menu 4>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>, <Menu 4>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>, <Menu 4>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>, <Menu 4>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:46:40] "GET /menuhttp/obtener HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:07] "[35m[1mPOST /empleadohttp/eliminar?nombreProducto=asdasd HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:08] "GET /empleadohttp/eliminar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:08] "GET /empleadohttp/eliminar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:08] "GET /empleadohttp/eliminar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:17] "[36mGET /empleadohttp/eliminar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:17] "[36mGET /empleadohttp/eliminar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:17] "[36mGET /empleadohttp/eliminar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu eliminado: <Menu 4>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:19] "POST /menuhttp/eliminar?nombreProducto=asdasd HTTP/1.1" 200 -
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+DEBUG:app:listado Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:47:28] "GET /menuhttp/obtener HTTP/1.1" 200 -
+DEBUG:app:listado empleados: [<Empleado 8>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:48:28] "GET /empleadohttp/obtener HTTP/1.1" 200 -
+DEBUG:app:listado de empleados: [<Empleado 8>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:25] "GET /empleados HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:25] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:25] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+ERROR:app:error al agregar: <Menu (transient 1799022152272)>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:37] "[35m[1mPOST /menuhttp/agregar HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:38] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:38] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:38] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:47] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:47] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:48] "[36mGET /menuhttp/agregar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+DEBUG:app:empleado agregado: <Empleado 10>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:48] "POST /empleadohttp/agregar HTTP/1.1" 200 -
+DEBUG:app:listado de empleados: [<Empleado 8>, <Empleado 10>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:54] "GET /empleados HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:54] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:49:54] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado empleados: [<Empleado 8>, <Empleado 10>]
+DEBUG:app:listado empleados: [<Empleado 8>, <Empleado 10>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:50:09] "GET /empleadohttp/obtener HTTP/1.1" 200 -
+DEBUG:app:empleado agregado: <Empleado 11>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:50:33] "POST /empleadohttp/agregar HTTP/1.1" 200 -
+DEBUG:app:listado empleados: [<Empleado 8>, <Empleado 10>, <Empleado 11>]
+DEBUG:app:listado empleados: [<Empleado 8>, <Empleado 10>, <Empleado 11>]
+DEBUG:app:listado empleados: [<Empleado 8>, <Empleado 10>, <Empleado 11>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:50:41] "GET /empleadohttp/obtener HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:07] "[35m[1mPOST /empleadohttp/editar HTTP/1.1[0m" 500 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:07] "GET /empleadohttp/editar?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:07] "GET /empleadohttp/editar?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:08] "GET /empleadohttp/editar?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+DEBUG:app:empleado actualizado: <Empleado 8>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:15] "POST /empleadohttp/editar HTTP/1.1" 200 -
+DEBUG:app:listado empleados: [<Empleado 10>, <Empleado 11>, <Empleado 8>]
+DEBUG:app:listado empleados: [<Empleado 10>, <Empleado 11>, <Empleado 8>]
+DEBUG:app:listado empleados: [<Empleado 10>, <Empleado 11>, <Empleado 8>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:23] "GET /empleadohttp/obtener HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:46] "[33mPOST /menuhttp/empleadohttp HTTP/1.1[0m" 404 -
+DEBUG:app:empleado eliminado: <Empleado 8>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:51:55] "POST /empleadohttp/eliminar HTTP/1.1" 200 -
+DEBUG:app:listado empleados: [<Empleado 10>, <Empleado 11>]
+DEBUG:app:listado empleados: [<Empleado 10>, <Empleado 11>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:52:09] "GET /empleadohttp/obtener HTTP/1.1" 200 -
+DEBUG:app:Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:05] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:05] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:05] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado de pedidos: [<Pedido 5>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:05] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:06] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:06] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:07] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:07] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 22:53:07] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:listado de pedidos: [<Pedido 5>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:23] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:23] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:23] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:26] "GET /pedidos/agregarPedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:27] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:27] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato agregado: <Pedido 6>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:54] "[32mPOST /pedidos/agregarPedidos HTTP/1.1[0m" 302 -
+DEBUG:app:listado de pedidos: [<Pedido 5>, <Pedido 6>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:54] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:54] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:54] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:56] "GET /pedidos/editarPedidos/5 HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:56] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:00:56] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+DEBUG:app:dato editado: <Pedido 5>
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:01:03] "[32mPOST /pedidos/editarPedidos/5 HTTP/1.1[0m" 302 -
+DEBUG:app:listado de pedidos: [<Pedido 6>, <Pedido 5>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:01:03] "GET /pedidos HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:01:03] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:01:03] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -
+INFO:werkzeug: * Detected change in 'D:\\Personal\\Programacion\\Multiparadigma\\Practica u2 FLask\\models.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+INFO:werkzeug: * Detected change in 'D:\\Personal\\Programacion\\Multiparadigma\\Practica u2 FLask\\forms.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 836-303-652
+DEBUG:app:Menu: [<Menu 5>, <Menu 14>, <Menu 15>, <Menu 16>]
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:11:37] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:11:37] "[36mGET /static/css/general.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [16/Apr/2023 23:11:37] "[36mGET /static/imagenes/oJ3IWgj.png HTTP/1.1[0m" 304 -

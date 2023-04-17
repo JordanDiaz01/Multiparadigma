@@ -1,0 +1,661 @@
+03:19:23:PM: DEBUG [cursor.py]: 10 Entra with  
+03:19:23:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001FE95CC8BB0>  
+03:19:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001FE937D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+03:19:23:PM: DEBUG [cursor.py]: 16 sale with  
+03:19:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001FE937D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+03:19:41:PM: DEBUG [cursor.py]: 10 Entra with  
+03:19:41:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001BD48DBDD50>  
+03:19:41:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001BD46EB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+03:19:41:PM: DEBUG [cursor.py]: 16 sale with  
+03:19:41:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001BD46EB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+03:19:41:PM: DEBUG [cursor.py]: 10 Entra with  
+03:19:41:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001BD46EB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+03:19:41:PM: DEBUG [cursor.py]: 16 sale with  
+03:19:41:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001BD46EB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+03:19:41:PM: DEBUG [clienteDAO.py]: 48 clientes 1  
+04:17:41:PM: DEBUG [cursor.py]: 10 Entra with  
+04:17:41:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001B466BCBC10>  
+04:17:41:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001B466A83AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:17:41:PM: DEBUG [cursor.py]: 16 sale with  
+04:17:41:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001B466A83AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:27:49:PM: DEBUG [cursor.py]: 10 Entra with  
+04:27:49:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001BC53EC3A90>  
+04:27:49:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001BC53D53AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:27:49:PM: DEBUG [cursor.py]: 16 sale with  
+04:27:49:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001BC53D53AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:27:56:PM: DEBUG [cursor.py]: 10 Entra with  
+04:27:56:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001F66CE53A90>  
+04:27:56:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001F66CCE3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:27:56:PM: DEBUG [cursor.py]: 16 sale with  
+04:27:56:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001F66CCE3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:29:36:PM: DEBUG [cursor.py]: 10 Entra with  
+04:29:36:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000020D83C63A90>  
+04:29:36:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000020D83AF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:29:36:PM: DEBUG [cursor.py]: 16 sale with  
+04:29:36:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000020D83AF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:29:44:PM: DEBUG [cursor.py]: 10 Entra with  
+04:29:44:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001F044C23A90>  
+04:29:44:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001F044AB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:29:44:PM: DEBUG [cursor.py]: 16 sale with  
+04:29:44:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001F044AB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:30:21:PM: DEBUG [cursor.py]: 10 Entra with  
+04:30:21:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001F03F883A90>  
+04:30:21:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001F03F3B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:30:21:PM: DEBUG [cursor.py]: 16 sale with  
+04:30:21:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001F03F3B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:30:21:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:30:21:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafet, Dirección: Arecas  
+04:30:21:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:38:10:PM: DEBUG [cursor.py]: 10 Entra with  
+04:38:10:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001D4BA013A90>  
+04:38:10:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D4B9AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:10:PM: DEBUG [cursor.py]: 16 sale with  
+04:38:10:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001D4B9AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:10:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:38:10:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafet, Dirección: Arecas  
+04:38:10:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:38:10:PM: DEBUG [cursor.py]: 10 Entra with  
+04:38:10:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D4B9AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:10:PM: DEBUG [cursor.py]: 16 sale with  
+04:38:10:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001D4B9AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:19:PM: DEBUG [cursor.py]: 10 Entra with  
+04:38:19:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000022186F33A90>  
+04:38:19:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022186A13AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:19:PM: DEBUG [cursor.py]: 16 sale with  
+04:38:19:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022186A13AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:19:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:38:19:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafet, Dirección: Arecas  
+04:38:19:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:38:19:PM: DEBUG [cursor.py]: 10 Entra with  
+04:38:19:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022186A13AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:38:19:PM: DEBUG [cursor.py]: 16 sale with  
+04:38:19:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022186A13AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:39:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:39:47:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000024404453A60>  
+04:39:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000244042E3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:39:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:39:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000244042E3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:39:47:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:39:47:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafet, Dirección: Arecas  
+04:39:47:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:39:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:39:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000244042E3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:39:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:39:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000244042E3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:10:PM: DEBUG [cursor.py]: 10 Entra with  
+04:41:10:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001E886E13A60>  
+04:41:10:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E8868F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:10:PM: DEBUG [cursor.py]: 16 sale with  
+04:41:10:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E8868F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:10:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:41:10:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafeteditado, Dirección: Arecas  
+04:41:10:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:41:10:PM: DEBUG [cursor.py]: 10 Entra with  
+04:41:10:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E8868F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:10:PM: DEBUG [cursor.py]: 16 sale with  
+04:41:10:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E8868F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:10:PM: DEBUG [cursor.py]: 10 Entra with  
+04:41:10:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E8868F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:10:PM: DEBUG [cursor.py]: 16 sale with  
+04:41:10:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E8868F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:50:PM: DEBUG [cursor.py]: 10 Entra with  
+04:41:50:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000025065603A60>  
+04:41:50:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025065133AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:50:PM: DEBUG [cursor.py]: 16 sale with  
+04:41:50:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025065133AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:50:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:41:50:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafeteditado, Dirección: Arecas  
+04:41:50:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:41:50:PM: DEBUG [cursor.py]: 10 Entra with  
+04:41:50:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025065133AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:50:PM: DEBUG [cursor.py]: 16 sale with  
+04:41:50:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025065133AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:50:PM: DEBUG [cursor.py]: 10 Entra with  
+04:41:50:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025065133AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:41:50:PM: DEBUG [cursor.py]: 16 sale with  
+04:41:50:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025065133AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:43:26:PM: DEBUG [cursor.py]: 10 Entra with  
+04:43:26:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001E267B33A60>  
+04:43:26:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E2679C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:43:26:PM: DEBUG [cursor.py]: 16 sale with  
+04:43:26:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E2679C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:43:26:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+04:43:26:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 2, Nombre: Jafeteditado, Dirección: Arecas  
+04:43:26:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+04:43:26:PM: DEBUG [cursor.py]: 10 Entra with  
+04:43:26:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E2679C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:43:26:PM: DEBUG [cursor.py]: 16 sale with  
+04:43:26:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E2679C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:43:26:PM: DEBUG [cursor.py]: 10 Entra with  
+04:43:26:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E2679C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:43:26:PM: DEBUG [cursor.py]: 16 sale with  
+04:43:26:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E2679C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:55:35:PM: DEBUG [cursor.py]: 10 Entra with  
+04:55:35:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000002900C16FAC0>  
+04:55:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000002900C023AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:55:35:PM: DEBUG [cursor.py]: 16 sale with  
+04:55:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000002900C023AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:06:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000025BA833FAC0>  
+04:56:06:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025BA7E23AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:06:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025BA7E23AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:06:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025BA7E23AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:06:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025BA7E23AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+04:56:06:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:06:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025BA7E23AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:06:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025BA7E23AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:06:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+04:56:38:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:38:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001AEDAED3A60>  
+04:56:38:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:38:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 1, Nombre: Jordan, Ciudad: NL  
+04:56:38:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 2, Nombre: Rafael, Ciudad: NL  
+04:56:38:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:38:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:38:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+04:56:38:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:38:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:38:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+04:56:38:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:38:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:38:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+04:56:38:PM: DEBUG [cursor.py]: 10 Entra with  
+04:56:38:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [cursor.py]: 16 sale with  
+04:56:38:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001AEDA9A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:56:38:PM: DEBUG [vendedorDAO.py]: 63 vendedor eliminado: 1  
+04:57:25:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:25:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x00000268CBBE3A60>  
+04:57:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 1, Nombre: Jordan, Ciudad: NL  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 3, Nombre: Jordan, Ciudad: NL  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 4, Nombre: Rafael, Ciudad: NL  
+04:57:25:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+04:57:25:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+04:57:25:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+04:57:25:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000268CBA73AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:25:PM: DEBUG [vendedorDAO.py]: 63 vendedor eliminado: 1  
+04:57:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:47:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000011C56FF3A60>  
+04:57:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 3, Nombre: Jordan, Ciudad: NL  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 4, Nombre: Rafael, Ciudad: NL  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 5, Nombre: Jordan, Ciudad: NL  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 6, Nombre: Rafael, Ciudad: NL  
+04:57:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+04:57:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+04:57:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+04:57:47:PM: DEBUG [cursor.py]: 10 Entra with  
+04:57:47:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:57:47:PM: DEBUG [cursor.py]: 16 sale with  
+04:57:47:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000011C56AD3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [cursor.py]: 10 Entra with  
+04:58:31:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x00000223873E3A60>  
+04:58:31:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [cursor.py]: 16 sale with  
+04:58:31:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 3, Nombre: Jordan, Ciudad: NL  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 4, Nombre: Rafael, Ciudad: NL  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 5, Nombre: jordaneditado, Ciudad: Arecas  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 6, Nombre: Rafael, Ciudad: NL  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 7, Nombre: Jordan, Ciudad: NL  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 8, Nombre: Rafael, Ciudad: NL  
+04:58:31:PM: DEBUG [cursor.py]: 10 Entra with  
+04:58:31:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [cursor.py]: 16 sale with  
+04:58:31:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+04:58:31:PM: DEBUG [cursor.py]: 10 Entra with  
+04:58:31:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [cursor.py]: 16 sale with  
+04:58:31:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+04:58:31:PM: DEBUG [cursor.py]: 10 Entra with  
+04:58:31:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [cursor.py]: 16 sale with  
+04:58:31:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+04:58:31:PM: DEBUG [cursor.py]: 10 Entra with  
+04:58:31:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:58:31:PM: DEBUG [cursor.py]: 16 sale with  
+04:58:31:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022387273AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [cursor.py]: 10 Entra with  
+04:59:22:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001E29A973A60>  
+04:59:22:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [cursor.py]: 16 sale with  
+04:59:22:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 3, Nombre: jordaneditado, Ciudad: Arecas  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 4, Nombre: Rafael, Ciudad: NL  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 5, Nombre: jordaneditado, Ciudad: Arecas  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 6, Nombre: Rafael, Ciudad: NL  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 7, Nombre: Jordan, Ciudad: NL  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 8, Nombre: Rafael, Ciudad: NL  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 9, Nombre: Jordan, Ciudad: NL  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 10, Nombre: Rafael, Ciudad: NL  
+04:59:22:PM: DEBUG [cursor.py]: 10 Entra with  
+04:59:22:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [cursor.py]: 16 sale with  
+04:59:22:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+04:59:22:PM: DEBUG [cursor.py]: 10 Entra with  
+04:59:22:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [cursor.py]: 16 sale with  
+04:59:22:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+04:59:22:PM: DEBUG [cursor.py]: 10 Entra with  
+04:59:22:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [cursor.py]: 16 sale with  
+04:59:22:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+04:59:22:PM: DEBUG [cursor.py]: 10 Entra with  
+04:59:22:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+04:59:22:PM: DEBUG [cursor.py]: 16 sale with  
+04:59:22:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E29A803AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [cursor.py]: 10 Entra with  
+05:00:13:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000021DC6263A60>  
+05:00:13:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [cursor.py]: 16 sale with  
+05:00:13:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 3, Nombre: jordaneditado, Ciudad: Arecas  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 4, Nombre: Rafael, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 5, Nombre: jordaneditado, Ciudad: Arecas  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 6, Nombre: Rafael, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 7, Nombre: Jordan, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 8, Nombre: Rafael, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 9, Nombre: Jordan, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 10, Nombre: Rafael, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 11, Nombre: Jordan, Ciudad: NL  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 12, Nombre: Rafael, Ciudad: NL  
+05:00:13:PM: DEBUG [cursor.py]: 10 Entra with  
+05:00:13:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [cursor.py]: 16 sale with  
+05:00:13:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+05:00:13:PM: DEBUG [cursor.py]: 10 Entra with  
+05:00:13:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [cursor.py]: 16 sale with  
+05:00:13:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+05:00:13:PM: DEBUG [cursor.py]: 10 Entra with  
+05:00:13:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [cursor.py]: 16 sale with  
+05:00:13:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+05:00:13:PM: DEBUG [cursor.py]: 10 Entra with  
+05:00:13:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [cursor.py]: 16 sale with  
+05:00:13:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021DC60F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:00:13:PM: DEBUG [vendedorDAO.py]: 64 vendedor eliminado: 1  
+05:11:57:PM: DEBUG [cursor.py]: 10 Entra with  
+05:11:57:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000022EC921FAC0>  
+05:11:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [cursor.py]: 16 sale with  
+05:11:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [cursor.py]: 10 Entra with  
+05:11:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [cursor.py]: 16 sale with  
+05:11:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [productoDAO.py]: 51 producto insertado: 1  
+05:11:57:PM: DEBUG [cursor.py]: 10 Entra with  
+05:11:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [cursor.py]: 16 sale with  
+05:11:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [productoDAO.py]: 54 producto insertado: 1  
+05:11:57:PM: DEBUG [cursor.py]: 10 Entra with  
+05:11:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [cursor.py]: 16 sale with  
+05:11:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [productoDAO.py]: 59 producto actualizado: 1  
+05:11:57:PM: DEBUG [cursor.py]: 10 Entra with  
+05:11:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [cursor.py]: 16 sale with  
+05:11:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022EC90D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+05:11:57:PM: DEBUG [productoDAO.py]: 64 producto eliminado: 1  
+10:28:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:28:23:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000019FF91E0AF0>  
+10:28:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:28:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 1, Nombre: Jordan, Dirección: abcd1234  
+10:28:23:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 3, Nombre: Jorge, Dirección: Tampico  
+10:28:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:28:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:28:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [clienteDAO.py]: 51 cliente insertado: 1  
+10:28:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:28:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:28:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [clienteDAO.py]: 56 cliente actualizado: 0  
+10:28:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:28:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:28:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000019FF9073AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:28:23:PM: DEBUG [clienteDAO.py]: 60 cliente eliminado: 0  
+10:30:35:PM: DEBUG [cursor.py]: 10 Entra with  
+10:30:35:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000018CBF0A3A60>  
+10:30:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [cursor.py]: 16 sale with  
+10:30:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [cursor.py]: 10 Entra with  
+10:30:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [cursor.py]: 16 sale with  
+10:30:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [clienteDAO.py]: 51 cliente insertado: 1  
+10:30:35:PM: DEBUG [cursor.py]: 10 Entra with  
+10:30:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [cursor.py]: 16 sale with  
+10:30:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [clienteDAO.py]: 56 cliente actualizado: 0  
+10:30:35:PM: DEBUG [cursor.py]: 10 Entra with  
+10:30:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [cursor.py]: 16 sale with  
+10:30:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000018CBEF33AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:30:35:PM: DEBUG [clienteDAO.py]: 60 cliente eliminado: 0  
+10:37:18:PM: DEBUG [cursor.py]: 10 Entra with  
+10:37:18:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000025F53A13A60>  
+10:37:18:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [cursor.py]: 16 sale with  
+10:37:18:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 5, Nombre: Jafet, Dirección: Arecas  
+10:37:18:PM: DEBUG [cursor.py]: 10 Entra with  
+10:37:18:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [cursor.py]: 16 sale with  
+10:37:18:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [clienteDAO.py]: 51 cliente insertado: 1  
+10:37:18:PM: DEBUG [cursor.py]: 10 Entra with  
+10:37:18:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [cursor.py]: 16 sale with  
+10:37:18:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [clienteDAO.py]: 56 cliente actualizado: 0  
+10:37:18:PM: DEBUG [cursor.py]: 10 Entra with  
+10:37:18:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [cursor.py]: 16 sale with  
+10:37:18:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000025F538A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:37:18:PM: DEBUG [clienteDAO.py]: 60 cliente eliminado: 0  
+10:38:46:PM: DEBUG [cursor.py]: 10 Entra with  
+10:38:46:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000002505EFC3A60>  
+10:38:46:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000002505EE53AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:38:46:PM: DEBUG [cursor.py]: 16 sale with  
+10:38:46:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000002505EE53AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:38:46:PM: DEBUG [cursor.py]: 10 Entra with  
+10:38:46:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000002505EE53AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:38:46:PM: DEBUG [cursor.py]: 16 sale with  
+10:38:46:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000002505EE53AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:38:46:PM: DEBUG [clienteDAO.py]: 51 cliente insertado: 1  
+10:40:40:PM: DEBUG [cursor.py]: 10 Entra with  
+10:40:40:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000014136D23A60>  
+10:40:40:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000014136BB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:40:40:PM: DEBUG [cursor.py]: 16 sale with  
+10:40:40:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000014136BB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:40:40:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 7, Nombre: Jafet, Dirección: Arecas  
+10:40:40:PM: DEBUG [cursor.py]: 10 Entra with  
+10:40:40:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000014136BB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:40:40:PM: DEBUG [cursor.py]: 16 sale with  
+10:40:40:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000014136BB3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:40:40:PM: DEBUG [clienteDAO.py]: 56 cliente actualizado: 0  
+10:41:39:PM: DEBUG [cursor.py]: 10 Entra with  
+10:41:39:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001C1FB313A60>  
+10:41:39:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001C1FB1A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:39:PM: DEBUG [cursor.py]: 16 sale with  
+10:41:39:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001C1FB1A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:39:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 7, Nombre: Jafet, Dirección: Arecas  
+10:41:39:PM: DEBUG [cursor.py]: 10 Entra with  
+10:41:39:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001C1FB1A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:39:PM: DEBUG [cursor.py]: 16 sale with  
+10:41:39:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001C1FB1A3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:39:PM: DEBUG [clienteDAO.py]: 56 cliente actualizado: 0  
+10:41:42:PM: DEBUG [cursor.py]: 10 Entra with  
+10:41:43:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001A9C7503A60>  
+10:41:43:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001A9C7393AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:43:PM: DEBUG [cursor.py]: 16 sale with  
+10:41:43:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001A9C7393AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:43:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 7, Nombre: Jafet, Dirección: Arecas  
+10:41:43:PM: DEBUG [cursor.py]: 10 Entra with  
+10:41:43:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001A9C7393AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:43:PM: DEBUG [cursor.py]: 16 sale with  
+10:41:43:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001A9C7393AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:41:43:PM: DEBUG [clienteDAO.py]: 56 cliente actualizado: 1  
+10:42:44:PM: DEBUG [cursor.py]: 10 Entra with  
+10:42:44:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001EB6C5B3A60>  
+10:42:44:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001EB6C443AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:42:44:PM: DEBUG [cursor.py]: 16 sale with  
+10:42:44:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001EB6C443AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:42:44:PM: DEBUG [clienteDAO.py]: 46 ID Cliente: 7, Nombre: Jafeteditado, Dirección: Arecas  
+10:42:44:PM: DEBUG [cursor.py]: 10 Entra with  
+10:42:44:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001EB6C443AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:42:44:PM: DEBUG [cursor.py]: 16 sale with  
+10:42:44:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001EB6C443AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:42:44:PM: DEBUG [clienteDAO.py]: 60 cliente eliminado: 1  
+10:45:58:PM: DEBUG [cursor.py]: 10 Entra with  
+10:45:58:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x00000247A57FBAC0>  
+10:45:58:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000247A56B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:45:58:PM: DEBUG [cursor.py]: 16 sale with  
+10:45:58:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000247A56B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:45:58:PM: DEBUG [cursor.py]: 10 Entra with  
+10:45:58:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000247A56B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:45:58:PM: DEBUG [cursor.py]: 16 sale with  
+10:45:58:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000247A56B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:45:58:PM: DEBUG [productoDAO.py]: 51 producto insertado: 1  
+10:45:58:PM: DEBUG [cursor.py]: 10 Entra with  
+10:45:58:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000247A56B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:45:58:PM: DEBUG [cursor.py]: 16 sale with  
+10:45:58:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000247A56B3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:45:58:PM: DEBUG [productoDAO.py]: 54 producto insertado: 1  
+10:47:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:47:23:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x00000214EF2B3A60>  
+10:47:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000214EF143AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:47:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:47:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000214EF143AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:47:23:PM: DEBUG [productoDAO.py]: 46 ID Producto: 3, Nombre: figura1, Precio: 500  
+10:47:23:PM: DEBUG [productoDAO.py]: 46 ID Producto: 4, Nombre: figura2, Precio: 300  
+10:47:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:47:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000214EF143AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:47:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:47:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000214EF143AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:47:23:PM: DEBUG [productoDAO.py]: 51 producto insertado: 1  
+10:47:23:PM: DEBUG [cursor.py]: 10 Entra with  
+10:47:23:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x00000214EF143AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:47:23:PM: DEBUG [cursor.py]: 16 sale with  
+10:47:23:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x00000214EF143AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:47:23:PM: DEBUG [productoDAO.py]: 54 producto insertado: 1  
+10:48:56:PM: DEBUG [cursor.py]: 10 Entra with  
+10:48:56:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000020A901D3A60>  
+10:48:56:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000020A90063AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:48:56:PM: DEBUG [cursor.py]: 16 sale with  
+10:48:56:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000020A90063AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:48:56:PM: DEBUG [productoDAO.py]: 46 ID Producto: 3, Nombre: figura1, Precio: 500  
+10:48:56:PM: DEBUG [productoDAO.py]: 46 ID Producto: 4, Nombre: figura2, Precio: 300  
+10:48:56:PM: DEBUG [productoDAO.py]: 46 ID Producto: 5, Nombre: figura1, Precio: 500  
+10:48:56:PM: DEBUG [productoDAO.py]: 46 ID Producto: 6, Nombre: figura2, Precio: 300  
+10:48:56:PM: DEBUG [cursor.py]: 10 Entra with  
+10:48:56:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000020A90063AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:48:56:PM: DEBUG [cursor.py]: 16 sale with  
+10:48:56:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000020A90063AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:48:56:PM: DEBUG [productoDAO.py]: 59 producto actualizado: 1  
+10:50:57:PM: DEBUG [cursor.py]: 10 Entra with  
+10:50:57:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000022C94933A60>  
+10:50:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022C947C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:50:57:PM: DEBUG [cursor.py]: 16 sale with  
+10:50:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022C947C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:50:57:PM: DEBUG [productoDAO.py]: 46 ID Producto: 3, Nombre: figura1, Precio: 500  
+10:50:57:PM: DEBUG [productoDAO.py]: 46 ID Producto: 4, Nombre: figuraeditada, Precio: 100  
+10:50:57:PM: DEBUG [productoDAO.py]: 46 ID Producto: 5, Nombre: figura1, Precio: 500  
+10:50:57:PM: DEBUG [productoDAO.py]: 46 ID Producto: 6, Nombre: figura2, Precio: 300  
+10:50:57:PM: DEBUG [cursor.py]: 10 Entra with  
+10:50:57:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000022C947C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:50:57:PM: DEBUG [cursor.py]: 16 sale with  
+10:50:57:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000022C947C3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:50:57:PM: DEBUG [productoDAO.py]: 64 producto eliminado: 1  
+10:55:25:PM: DEBUG [cursor.py]: 10 Entra with  
+10:55:25:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001E66E39BAC0>  
+10:55:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E66DEF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:55:25:PM: DEBUG [cursor.py]: 16 sale with  
+10:55:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E66DEF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:55:25:PM: DEBUG [cursor.py]: 10 Entra with  
+10:55:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E66DEF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:55:25:PM: DEBUG [cursor.py]: 16 sale with  
+10:55:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E66DEF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:55:25:PM: DEBUG [vendedorDAO.py]: 51 vendedor insertado: 1  
+10:55:25:PM: DEBUG [cursor.py]: 10 Entra with  
+10:55:25:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E66DEF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:55:25:PM: DEBUG [cursor.py]: 16 sale with  
+10:55:25:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E66DEF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:55:25:PM: DEBUG [vendedorDAO.py]: 54 vendedor insertado: 1  
+10:56:51:PM: DEBUG [cursor.py]: 10 Entra with  
+10:56:51:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000027B98E73A60>  
+10:56:51:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000027B98943AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:56:51:PM: DEBUG [cursor.py]: 16 sale with  
+10:56:51:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000027B98943AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:56:51:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: Jordan, Ciudad: NL  
+10:56:51:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+10:56:51:PM: DEBUG [cursor.py]: 10 Entra with  
+10:56:51:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000027B98943AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:56:51:PM: DEBUG [cursor.py]: 16 sale with  
+10:56:51:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000027B98943AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:56:51:PM: DEBUG [vendedorDAO.py]: 59 vendedor actualizado: 1  
+10:58:01:PM: DEBUG [cursor.py]: 10 Entra with  
+10:58:01:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000021B1CB43A60>  
+10:58:01:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021B1C9D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:58:01:PM: DEBUG [cursor.py]: 16 sale with  
+10:58:01:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021B1C9D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:58:01:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+10:58:01:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+10:58:01:PM: DEBUG [cursor.py]: 10 Entra with  
+10:58:01:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000021B1C9D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:58:01:PM: DEBUG [cursor.py]: 16 sale with  
+10:58:01:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000021B1C9D3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:59:35:PM: DEBUG [cursor.py]: 10 Entra with  
+10:59:35:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000017F549D3A60>  
+10:59:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000017F54863AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:59:35:PM: DEBUG [cursor.py]: 16 sale with  
+10:59:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000017F54863AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:59:35:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+10:59:35:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+10:59:35:PM: DEBUG [cursor.py]: 10 Entra with  
+10:59:35:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000017F54863AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+10:59:35:PM: DEBUG [cursor.py]: 16 sale with  
+10:59:35:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000017F54863AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:34:PM: DEBUG [cursor.py]: 10 Entra with  
+11:03:34:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000016E18063A30>  
+11:03:34:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000016E17EF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:34:PM: DEBUG [cursor.py]: 16 sale with  
+11:03:34:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000016E17EF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:34:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:03:34:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:03:34:PM: DEBUG [cursor.py]: 10 Entra with  
+11:03:34:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000016E17EF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:34:PM: DEBUG [cursor.py]: 16 sale with  
+11:03:34:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000016E17EF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:41:PM: DEBUG [cursor.py]: 10 Entra with  
+11:03:41:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000026F643D3A30>  
+11:03:41:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000026F64263AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:41:PM: DEBUG [cursor.py]: 16 sale with  
+11:03:41:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000026F64263AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:41:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:03:41:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:03:41:PM: DEBUG [cursor.py]: 10 Entra with  
+11:03:41:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000026F64263AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:41:PM: DEBUG [cursor.py]: 16 sale with  
+11:03:41:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000026F64263AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:55:PM: DEBUG [cursor.py]: 10 Entra with  
+11:03:55:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001D04A983A30>  
+11:03:55:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D04A813AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:55:PM: DEBUG [cursor.py]: 16 sale with  
+11:03:55:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001D04A813AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:55:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:03:55:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:03:55:PM: DEBUG [cursor.py]: 10 Entra with  
+11:03:55:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001D04A813AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:03:55:PM: DEBUG [cursor.py]: 16 sale with  
+11:03:55:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001D04A813AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:30:PM: DEBUG [cursor.py]: 10 Entra with  
+11:05:30:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001FFE6673A30>  
+11:05:30:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001FFE6503AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:30:PM: DEBUG [cursor.py]: 16 sale with  
+11:05:30:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001FFE6503AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:30:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:05:30:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:05:30:PM: DEBUG [cursor.py]: 10 Entra with  
+11:05:30:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001FFE6503AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:30:PM: DEBUG [cursor.py]: 16 sale with  
+11:05:30:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001FFE6503AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:40:PM: DEBUG [cursor.py]: 10 Entra with  
+11:05:40:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001E76EF33A30>  
+11:05:40:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E76EDC3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:40:PM: DEBUG [cursor.py]: 16 sale with  
+11:05:40:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E76EDC3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:40:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:05:40:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:05:40:PM: DEBUG [cursor.py]: 10 Entra with  
+11:05:40:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001E76EDC3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:40:PM: DEBUG [cursor.py]: 16 sale with  
+11:05:40:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001E76EDC3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:52:PM: DEBUG [cursor.py]: 10 Entra with  
+11:05:52:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x000001699B363A30>  
+11:05:52:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001699B1F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:52:PM: DEBUG [cursor.py]: 16 sale with  
+11:05:52:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001699B1F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:52:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:05:52:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:05:52:PM: DEBUG [cursor.py]: 10 Entra with  
+11:05:52:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x000001699B1F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:05:52:PM: DEBUG [cursor.py]: 16 sale with  
+11:05:52:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x000001699B1F3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:06:08:PM: DEBUG [cursor.py]: 10 Entra with  
+11:06:08:PM: DEBUG [conexion.py]: 28 Creación del pool: <psycopg2.pool.SimpleConnectionPool object at 0x0000018AA51C3A30>  
+11:06:08:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000018AA4CF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:06:08:PM: DEBUG [cursor.py]: 16 sale with  
+11:06:08:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000018AA4CF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:06:08:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 15, Nombre: jordaneditado, Ciudad: NL  
+11:06:08:PM: DEBUG [vendedorDAO.py]: 46 ID Vendedor: 16, Nombre: Rafael, Ciudad: NL  
+11:06:08:PM: DEBUG [cursor.py]: 10 Entra with  
+11:06:08:PM: DEBUG [conexion.py]: 37 Conexion obtenida: <connection object at 0x0000018AA4CF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:06:08:PM: DEBUG [cursor.py]: 16 sale with  
+11:06:08:PM: DEBUG [conexion.py]: 43 Conexion regresada: <connection object at 0x0000018AA4CF3AB0; dsn: 'user=postgres password=xxx dbname=MultiU2 host=127.0.0.1 port=5432', closed: 0>  
+11:06:08:PM: DEBUG [vendedorDAO.py]: 64 vendedor eliminado: 1  

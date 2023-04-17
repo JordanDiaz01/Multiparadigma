@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    {% load static %}
+    <h1>Listado de Juegos</h1>
+    <a href="nuevoJuego">Agregar</a>
+    <table border="1">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nombre</th>
+                <th>Compañia</th>
+                <th></th>
+                <th></th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            {%for juego in juegos%}
+                <tr>
+                    <td>{{juego.id}}</td>
+                    <td>{{juego.nombrejuego}}</td>
+                    <td>{{juego.compañia}}</td>
+                    <td><a href="detalleJuego/{{juego.id}}">Detalle</a></td>
+                    <td><a href="editarJuego/{{juego.id}}">Editar</a></td>
+                    <td><a href="eliminarJuego/{{juego.id}}">Eliminar</a></td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>

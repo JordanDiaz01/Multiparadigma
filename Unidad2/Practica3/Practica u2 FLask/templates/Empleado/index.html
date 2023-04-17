@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/general.css') }}">
+</head>
+<body>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <a class="navbar-brand" href="/">
+          <img src="{{ url_for('static', filename='imagenes/oJ3IWgj.png') }}" width="150" height="150" alt="Logo" >
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav"  >
+          <ul class="navbar-nav">
+            <li class="nav-item ">
+              <a class="nav-link" href="/">Menu</a>
+            </li>
+            <li class="nav-item active">
+              <a class="nav-link" href="/empleados">Empleados</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="/pedidos" >Pedidos</a>
+            </li>
+          </ul>
+        </div>
+    </nav>
+    <div>
+    </div>
+
+
+    <div class="container-fluid">
+        <div class="row">
+          <div class="col">
+            <h1>Empleados</h1>
+            <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Nombre</th>
+                    <th scope="col">Puesto</th>
+                    <th scope="col">Sueldo</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                  </tr>
+                </thead>
+                <tbody>
+                {% for empleado in empleado%}
+                  <tr>
+                    <th scope="row">{{empleado.id}}</th>
+                    <td>{{empleado.nombre}}</td>
+                    <td>{{empleado.Puesto}}</td>
+                    <td>{{empleado.Sueldo}}</td>
+                    <td><a href="/empleados/editarEmpleado/{{empleado.id}}" class="btn btn-primary active" aria-current="page">Editar</a></td>
+                    <td><a href="/empleados/eliminarEmpleado/{{empleado.id}}" class="btn btn-danger">Eliminar</a></td>
+                  </tr>
+                {% endfor %}
+                </tbody>
+              </table>
+          </div>
+        </div>
+        <a href="{{url_for('agregarEmpleado')}}" class="btn btn-primary" role="button">Agregar empleados</a>
+      </div>
+</body>
