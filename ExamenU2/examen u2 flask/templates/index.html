@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1 style="text-align: center;">Psicologos</h1>
+    <table style="border: 1px solid black;">
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Nombre</th>
+                <th>Sueldo</th>
+                <th>Correo</th>
+                <th></th>
+                <th></th>
+            </tr>    
+        </thead>
+        <tbody>
+        {% for psicologo in psicologo %}
+            <tr>
+                <td>{{psicologo.id}}</td>
+                <td>{{psicologo.nombre}}</td>
+                <td>{{psicologo.correo}}</td>
+                <td>{{psicologo.sueldo}}</td>
+                <td><a href="editar/{{psicologo.id}}" class="btn btn-primary active" aria-current="page">Editar</a></td>
+                <td><a href="eliminar/{{psicologo.id}}" class="btn btn-primary active" aria-current="page">Eliminar</a></td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    <b>
+        <a href="{{url_for('agregarpsico')}}" class="btn btn-primary" role="button">agregar psicologo</a>
+</body>
+</html>
+

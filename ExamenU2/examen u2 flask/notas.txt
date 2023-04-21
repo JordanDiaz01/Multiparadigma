@@ -1,0 +1,28 @@
+pip install flask
+pip install -sqlAlchemy
+pip install flask-migrate
+pip install pyscopg2
+pip install flask-wtf
+
+app.py
+
+from flask import Flask, render_template, url_for, redirect, request, jsonify
+from flask_migrate import Migrate
+from database import db
+from forms import menuForm, empleadosForm, pedidoForm
+from models import Empleado, Menu, Pedido
+import logging
+
+app = Flask(__name__) #cualquier nombre o el nombre del archivo con __name__
+
+database.py -
+# Se importa la extensión SQLAlchemy de Flask
+from flask_sqlalchemy import SQLAlchemy
+
+# Se crea una instancia de la clase SQLAlchemy y se asigna a la variable 'db'
+db = SQLAlchemy()
+-
+#debemos tener la base de datos creada
+flask db init
+flask db migrate
+flask db upgrade
