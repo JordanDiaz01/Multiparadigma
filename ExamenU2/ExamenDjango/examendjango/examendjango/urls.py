@@ -16,7 +16,25 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-
+from webapp.views import *
+from gestorapp.views import *
 urlpatterns = [
     path('admin/', admin.site.urls),
+    path('',index,name='index'),
+
+    path('indexEstudiante',indexEstudiante, name='indexEstudiante'),
+    path('nuevoEstudiante',nuevoEstudiante),
+    path('editarEstudiante/<int:id>',editarEstudiante),
+    path('eliminarEstudiante/<int:id>',eliminarEstudiante),
+    path('detalleEstudiante/<int:id>',detalleEstudiante),
+
+    path('indexDomicilio',indexDomicilio, name='indexDomicilio'),
+   
+    path('indexGerente',indexGerente, name='indexGerente'),
+ 
+    path('indexMaestro',indexMaestro, name='indexMaestro'),
+
+    path('indexEscuela',indexEscuela, name='indexEscuela'),
+
+
 ]
